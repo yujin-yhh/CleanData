@@ -1,0 +1,16 @@
+customer_ids:
+   - 1000000001
+   - 1000000002
+mysql:
+   host: 47.93.148.174
+   port: 3306
+   username: root
+   password: 123456
+
+mongodb:
+   host: 127.0.0.1
+   port: 27017
+   db : python15
+
+
+
